@@ -8,10 +8,10 @@
 
 | Member | Page | Focus |
 |---|---|---|
-| Student 1 | index.html | Hero, trust cards, popular treatments preview, testimonials |
-| Student 2 | services.html | Full treatment catalogue (Grid), category nav, pricing table |
-| Student 3 | about.html | Team (Grid), process timeline, values |
-| Student 4 | contact.html | Booking form, gallery (Grid), FAQ, map |
+| Nurakysheva Ayaulym  | index.html | Hero, trust cards, popular treatments preview, testimonials |
+| Bekbolat Adina| | services.html | Full treatment catalogue (Grid), category nav, pricing table |
+|  Nazymkyzy Aizada | about.html | Team (Grid), process timeline, values |
+| khabibullina Aigerim|| contact.html | Booking form, gallery (Grid), FAQ, map |
 
 ## Structure
 
